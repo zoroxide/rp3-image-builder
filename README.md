@@ -5,4 +5,6 @@
 # Can you add more platforms?
 - this repo might be useless because there are already complete full tools for this like yocto or buildroot. Still, only the kernel master knows that there are times you need to build the kernel by yourself so this will enhance some time of yours instead of typing boilerplate commands, please contribute with your build script!
 # TODO
-- [ ] code a builder script for beaglebone boards
+- [ ] builder script for beaglebone boards
+- [ ] builder script for Raspberry Pi 4 boards
+      
